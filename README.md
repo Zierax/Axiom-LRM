@@ -1,4 +1,4 @@
-# Axiom-LRM: The End of Probabilistic Guessing (It will be opensource in 3-4 weeks)
+# Axiom-LRM: The End of Probabilistic Guessing
 
 **Axiom-LRM** is not a Language Model; it is a **Reasoning Engine**. 
 
