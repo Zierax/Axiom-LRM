@@ -12,6 +12,8 @@ While traditional LLMs rely on statistical weights to predict the "most likely" 
 ### Status: [UNDER-DEVELOPMENT]
 * **Phase 1:** Mathematical Invariants (Completed)
 * **Phase 2:** Cross-Domain Logic Mapping (Completed)
-* **Phase 3:** Deterministic Self-Correction (In-Progress)
+* **Phase 3:** Deterministic Self-Correction (Completed)
+* **Phase 4:** Training on 1B param (in-progress)
+* **Phase 5:** Training on 12B param (in-progress)
 
 > *"Intelligence is the execution of universal laws. We are just providing the hardware-accelerated logic to run them."*
